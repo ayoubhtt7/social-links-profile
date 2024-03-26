@@ -51,7 +51,7 @@ li {
 li :last-child{
 text-decoration: none;
 margin-bottom: 25px;
-transition: tranform 0.2s ease-in-out;
+
 
 }
 p{
@@ -106,6 +106,7 @@ li:hover{
     color: var(--color-Off-Black);
     text-decoration: none;
     transform: scale(1.1);
+    transition: ease-in-out 0.3s;
   
     
 }
